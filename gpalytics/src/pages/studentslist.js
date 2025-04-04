@@ -10,6 +10,7 @@ const StudentList = () => {
             .then(data => setStudents(data))
             .catch(error => console.error("Error fetching students:", error));
     }, []);
+    
     return (
         <>
             <div>
@@ -27,7 +28,6 @@ const StudentList = () => {
                             <th>Semester</th>
                             <th>CGPA</th>
                             <th>Attendence</th>
-                          
                         </tr>
                     </thead>
                     <tbody>
@@ -35,7 +35,6 @@ const StudentList = () => {
   students.map((student, index) => {
     return (
       <tr key={index}>
-
         <td>{index}</td>
         <td>{student.Name}</td>
         <td>{student.Rollnumber}</td>

@@ -1,214 +1,151 @@
-Name,Department,Gender,Attendance,Semester,Rollnumber,Cgpa
-Ayesha,BSCS,Male,80%-100%,6th,SP23-BSCS-0000  ,3.21
-Ali,BEEE,Female,80%-100%,7th,FA22-BEEE-0001  ,2.13
-Fatima,BSSE,Male,80%-100%,3rd,SP24-BSSE-0002  ,1.85
-Usman,BSCS,Male,80%-100%,4th,FA23-BSCS-0003  ,2.99
-Sana,BSSE,Female,80%-100%,4th,SP25-BSSE-0004  ,3.45
-Bilal,BSSE,Male,Below 40%,2nd,FA24-BSSE-0005  ,2.56
-Zara,BEEE,Male,60%-79%,2nd,SP23-BEEE-0006  ,1.75
-Muhammad,BSSE,Male,80%-100%,3rd,FA22-BSSE-0007  ,3.9
-Hira,BSCS,Male,Below 40%,5th,SP24-BSCS-0008  ,2.41
-Hasan,BEEE,Female,Below 40%,2nd,FA23-BEEE-0009  ,1.36
-Maria,BSCS,Male,Below 40%,2nd,SP25-BSCS-0010  ,4
-Shahzaib,BSSE,Male,Below 40%,4th,FA24-BSSE-0011  ,2.74
-Noor,BSSE,Male,60%-79%,8th,SP23-BSSE-0012  ,3.68
-Sami,BSSE,Male,60%-79%,8th,FA22-BSSE-0013  ,1.92
-Saba,BSSE,Male,Below 40%,2nd,SP24-BSSE-0014  ,3.15
-Imran,BSSE,Male,Below 40%,2nd,FA23-BSSE-0015  ,2.5
-Iman,BSSE,Female,60%-79%,8th,SP25-BSSE-0016  ,1.8
-Faisal,BSSE,Male,60%-79%,2nd,FA24-BSSE-0017  ,3.33
-Samina,BSSE,Male,60%-79%,5th,SP23-BSSE-0018  ,2.22
-Ahmed,BSSE,Male,60%-79%,2nd,FA22-BSSE-0019  ,3.8
-Nida,BEEE,Male,60%-79%,2nd,SP24-BEEE-0020  ,1.45
-Salman,BEEE,Male,80%-100%,3rd,FA23-BEEE-0021  ,2.88
-Mahnoor,BSSE,Male,60%-79%,2nd,SP25-BSSE-0022  ,3.1
-Faisal,BSSE,Male,60%-79%,2nd,FA24-BSSE-0023  ,1.67
-Lubna,BEEE,Male,60%-79%,5th,SP23-BEEE-0024  ,3.75
-Danish,BSSE,Male,Below 40%,4th,FA22-BSSE-0025  ,2.05
-Mehwish,BSSE,Female,Below 40%,5th,SP24-BSSE-0026  ,1.95
-Amir,BSSE,Male,60%-79%,2nd,FA23-BSSE-0027  ,3.5
-Rabia,BEEE,Male,60%-79%,2nd,SP25-BEEE-0028  ,2.69
-Talha,BSSE,Male,60%-79%,3rd,FA24-BSSE-0029  ,3
-Ayesha,BSSE,Male,60%-79%,8th,SP23-BSSE-0030  ,1.4
-Ali,BSSE,Male,60%-79%,5th,FA22-BSSE-0031  ,2.98
-Saira,BSSE,Male,60%-79%,8th,SP24-BSSE-0032  ,3.25
-Rizwan,BSSE,Male,Below 40%,5th,FA23-BSSE-0033  ,1.55
-Zainab,BSSE,Male,60%-79%,3rd,SP25-BSSE-0034  ,3.6
-Faiza,BSSE,Male,40%-59%,5th,FA24-BSSE-0035  ,2.18
-Omer,BSSE,Female,40%-59%,8th,SP23-BSSE-0036  ,1.7
-Sara,BSSE,Male,40%-59%,3rd,FA22-BSSE-0037  ,3.4
-Abdul,BSSE,Male,40%-59%,3rd,SP24-BSSE-0038  ,2.3
-Nashit,BSSE,Male,60%-79%,5th,FA23-BSSE-0039  ,3.85
-Kiran,BSSE,Male,60%-79%,4th,SP25-BSSE-0040  ,1.3
-Muneeb,BSSE,Male,40%-59%,4th,FA24-BSSE-0041  ,2.45
-Bushra,BSSE,Female,60%-79%,7th,SP23-BSSE-0042  ,3.05
-Kashan,BSSE,Male,40%-59%,2nd,FA22-BSSE-0043  ,1.9
-Kiran,BSSE,Male,40%-59%,2nd,SP24-BSSE-0044  ,3.55
-Asad,BSSE,Male,60%-79%,2nd,FA23-BSSE-0045  ,2.6
-Anum,BSSE,Male,40%-59%,4th,SP25-BSSE-0046  ,1.5
-Danish,BSSE,Male,60%-79%,7th,FA24-BSSE-0047  ,3.2
-Areeba,BSSE,Male,40%-59%,2nd,SP23-BSSE-0048  ,2.11
-Zain,BSSE,Female,40%-59%,2nd,FA22-BSSE-0049  ,3.7
-Alina,BSSE,Male,40%-59%,2nd,SP24-BSSE-0050  ,1.48
-Junaid,BSSE,Female,60%-79%,5th,FA23-BSSE-0051  ,2.78
-Sadaf,BSSE,Female,40%-59%,5th,SP25-BSSE-0052  ,3.35
-Farhan,BSSE,Male,40%-59%,3rd,FA24-BSSE-0053  ,1.72
-Nashit,BSSE,Male,40%-59%,3rd,SP23-BSSE-0054  ,3.9
-Noor,BSSE,Male,40%-59%,4th,FA22-BSSE-0055  ,2
-Raheel,BSSE,Male,40%-59%,8th,SP24-BSSE-0056  ,1.88
-Hina,BSSE,Male,40%-59%,6th,FA23-BSSE-0057  ,3.45
-Nashit,BSSE,Male,40%-59%,2nd,SP25-BSSE-0058  ,2.63
-Dua,BSSE,Male,40%-59%,2nd,FA24-BSSE-0059  ,3.12
-Tariq,BSSE,Female,40%-59%,2nd,SP23-BSSE-0060  ,1.38
-Nashit,BSSE,Female,40%-59%,2nd,FA22-BSSE-0061  ,2.89
-Madiha,BSSE,Female,60%-79%,5th,SP24-BSSE-0062  ,3.22
-Fahad,BSSE,Male,40%-59%,2nd,FA23-BSSE-0063  ,1.57
-Shamim,BSSE,Male,40%-59%,2nd,SP25-BSSE-0064  ,3.65
-Samina,BSSE,Male,80%-100%,3rd,FA24-BSSE-0065  ,2.14
-Wasiq,BSSE,Male,60%-79%,3rd,SP23-BSSE-0066  ,1.73
-Sana,BSSE,Male,60%-79%,3rd,FA22-BSSE-0067  ,3.42
-Rehan,BSSE,Male,80%-100%,3rd,SP24-BSSE-0068  ,2.35
-Amna,BSSE,Male,60%-79%,8th,FA23-BSSE-0069  ,3.87
-Wajid,BSSE,Male,40%-59%,2nd,SP25-BSSE-0070  ,1.28
-Saima,BSSE,Male,60%-79%,5th,FA24-BSSE-0071  ,2.52
-Sohail,BSSE,Male,80%-100%,4th,SP23-BSSE-0072  ,3.08
-Saira,BSSE,Female,60%-79%,5th,FA22-BSSE-0073  ,1.85
-Nashit,BSSE,Male,40%-59%,2nd,SP24-BSSE-0074  ,3.48
-Mahnoor,BSSE,Male,40%-59%,2nd,FA23-BSSE-0075  ,2.54
-Nabeel,BSSE,Male,40%-59%,2nd,SP25-BSSE-0076  ,1.49
-Aliya,BSSE,Male,80%-100%,2nd,FA24-BSSE-0077  ,3.27
-Ahsan,BSSE,Male,40%-59%,2nd,SP23-BSSE-0078  ,2.09
-Zeeshan,BSSE,Male,40%-59%,2nd,FA22-BSSE-0079  ,3.74
-Uzma,BSSE,Male,40%-59%,2nd,SP24-BSSE-0080  ,1.44
-Tariq,BSSE,Male,40%-59%,2nd,FA23-BSSE-0081  ,2.66
-Zohra,BSSE,Male,40%-59%,2nd,SP25-BSSE-0082  ,3.31
-Uzair,BSSE,Male,60%-79%,5th,FA24-BSSE-0083  ,1.79
-Asma,BSSE,Male,60%-79%,4th,SP23-BSSE-0084  ,3.92
-Sarah,BSSE,Male,60%-79%,3rd,FA22-BSSE-0085  ,2.03
-Rana,BSSE,Female,80%-100%,4th,SP24-BSSE-0086  ,1.83
-Faizan,BSSE,Male,80%-100%,4th,FA23-BSSE-0087  ,3.52
-Madiha,BSSE,Male,80%-100%,5th,SP25-BSSE-0088  ,2.7
-Aliza,BSSE,Male,60%-79%,5th,FA24-BSSE-0089  ,3.19
-Samra,BSSE,Female,60%-79%,5th,SP23-BSSE-0090  ,1.32
-Haroon,BSSE,Male,60%-79%,5th,FA22-BSSE-0091  ,2.83
-Waleed,BSSE,Male,60%-79%,5th,SP24-BSSE-0092  ,3.29
-Shaista,BSSE,Male,60%-79%,4th,FA23-BSSE-0093  ,1.59
-Adeel,BSSE,Male,60%-79%,8th,SP25-BSSE-0094  ,3.67
-Nabeela,BSSE,Male,60%-79%,8th,FA24-BSSE-0095  ,2.16
-Zubair,BSSE,Female,60%-79%,8th,SP23-BSSE-0096  ,1.76
-Hina,BSSE,Female,60%-79%,8th,FA22-BSSE-0097  ,3.46
-Sajid,BSSE,Female,60%-79%,8th,SP24-BSSE-0098  ,2.37
-Ahsan,BSSE,Male,60%-79%,8th,FA23-BSSE-0099  ,3.81
-Faryal,BSSE,Male,60%-79%,7th,SP25-BSSE-0100  ,1.26
-Ahmed,BSSE,Female,60%-79%,6th,FA24-BSSE-0101  ,2.47
-Zaki,BSSE,Male,60%-79%,6th,SP23-BSSE-0102  ,3.09
-Awais,BSSE,Male,60%-79%,6th,FA22-BSSE-0103  ,1.87
-Kashif,BSSE,Male,60%-79%,5th,SP24-BSSE-0104  ,3.5
-Areeba,BSSE,Male,60%-79%,5th,FA23-BSSE-0105  ,2.57
-Hassan,BSSE,Male,60%-79%,5th,SP25-BSSE-0106  ,1.53
-Sana,BSSE,Female,60%-79%,3rd,FA24-BSSE-0107  ,3.23
-Muneeb,BSSE,Male,60%-79%,3rd,SP23-BSSE-0108  ,2.07
-Amin,BSSE,Male,60%-79%,3rd,FA22-BSSE-0109  ,3.77
-Nashit,BSSE,Male,60%-79%,2nd,SP24-BSSE-0110  ,1.42
-Quratulain,BSSE,Female,60%-79%,2nd,FA23-BSSE-0111  ,2.71
-Shams,BEEE,Female,60%-79%,2nd,SP25-BEEE-0112  ,3.33
-Javeria,BSSE,Female,60%-79%,2nd,FA24-BSSE-0113  ,1.81
-Wasiq,BSSE,Male,60%-79%,3rd,SP23-BSSE-0114  ,3.94
-Asim,BSSE,Male,60%-79%,2nd,FA22-BSSE-0115  ,2.01
-Farah,BSSE,Male,60%-79%,2nd,SP24-BSSE-0116  ,1.91
-Maha,BSSE,Female,60%-79%,5th,FA23-BSSE-0117  ,3.56
-Uzma,BSSE,Female,60%-79%,4th,SP25-BSSE-0118  ,2.74
-Bilal,BSSE,Male,60%-79%,6th,FA24-BSSE-0119  ,3.14
-Sarah,BSSE,Male,60%-79%,6th,SP23-BSSE-0120  ,1.34
-Rao,BSSE,Female,60%-79%,8th,FA22-BSSE-0121  ,2.95
-Maheen,BSSE,Female,60%-79%,2nd,SP24-BSSE-0122  ,3.26
-Danish,BSSE,Female,60%-79%,2nd,FA23-BSSE-0123  ,1.61
-Tariq,BSSE,Male,60%-79%,2nd,SP25-BSSE-0124  ,3.69
-Arsalan,BSSE,Male,60%-79%,2nd,FA24-BSSE-0125  ,2.19
-Sana,BSSE,Male,60%-79%,2nd,SP23-BSSE-0126  ,1.78
-Shahnaz,BSSE,Female,60%-79%,2nd,FA22-BSSE-0127  ,3.44
-Fahad,BSSE,Female,60%-79%,5th,SP24-BSSE-0128  ,2.39
-Sohail,BSSE,Male,60%-79%,4th,FA23-BSSE-0129  ,3.84
-Ehtesham,BSSE,Female,60%-79%,8th,SP25-BSSE-0130  ,1.24
-Zoya,BSSE,Female,60%-79%,8th,FA24-BSSE-0131  ,2.5
-Rida,BSSE,Female,60%-79%,8th,SP23-BSSE-0132  ,3.07
-Zakir,BSSE,Male,60%-79%,7th,FA22-BSSE-0133  ,1.89
-Umer,BSSE,Male,60%-79%,7th,SP24-BSSE-0134  ,3.53
-Adeel,BSSE,Male,60%-79%,3rd,FA23-BSSE-0135  ,2.61
-Musharraf,BSSE,Male,40%-59%,5th,SP25-BSSE-0136  ,1.55
-Ali,BSSE,Male,40%-59%,4th,FA24-BSSE-0137  ,3.28
-Kiran,BSSE,Male,40%-59%,4th,SP23-BSSE-0138  ,2.12
-Sarah,BSSE,Male,40%-59%,8th,FA22-BSSE-0139  ,3.79
-Muneeb,BSSE,Male,40%-59%,8th,SP24-BSSE-0140  ,1.46
-Shahzaib,BSSE,Female,40%-59%,8th,FA23-BSSE-0141  ,2.74
-Sana,BSSE,Male,40%-59%,7th,SP25-BSSE-0142  ,3.37
-Sami,BSSE,Male,40%-59%,7th,FA24-BSSE-0143  ,1.83
-Imran,BSSE,Male,40%-59%,6th,SP23-BSSE-0144  ,3.96
-Faiza,BSSE,Male,40%-59%,6th,FA22-BSSE-0145  ,2.05
-Shazia,BSSE,Female,40%-59%,6th,SP24-BSSE-0146  ,1.94
-Hammad,BSSE,Female,40%-59%,6th,FA23-BSSE-0147  ,3.58
-Ali,BSSE,Male,40%-59%,6th,SP25-BSSE-0148  ,2.77
-Aliya,BSSE,Male,40%-59%,6th,FA24-BSSE-0149  ,3.17
-Abeer,BSSE,Female,40%-59%,5th,SP23-BSSE-0150  ,1.36
-Hamza,BSSE,Male,40%-59%,5th,FA22-BSSE-0151  ,2.99
-Anam,BSSE,Female,40%-59%,3rd,SP24-BSSE-0152  ,3.3
-Zain,BSSE,Male,40%-59%,3rd,FA23-BSSE-0153  ,1.63
-Sohail,BSSE,Male,60%-79%,2nd,SP25-BSSE-0154  ,3.71
-Ehsan,BSSE,Female,40%-59%,5th,FA24-BSSE-0155  ,2.22
-Samina,BSSE,Male,60%-79%,2nd,SP23-BSSE-0156  ,1.8
-Khadija,BSSE,Male,60%-79%,2nd,FA22-BSSE-0157  ,3.48
-Muneeb,BSSE,Female,60%-79%,2nd,SP24-BSSE-0158  ,2.41
-Owais,BSSE,Male,60%-79%,8th,FA23-BSSE-0159  ,3.86
-Jameela,BEEE,Female,80%-100%,3rd,SP25-BEEE-0160  ,1.22
-Shahbaz,BSSE,Male,80%-100%,2nd,FA24-BSSE-0161  ,2.53
-Arslan,BSSE,Male,60%-79%,4th,SP23-BSSE-0162  ,3.11
-Maham,BSSE,Female,80%-100%,4th,FA22-BSSE-0163  ,1.92
-Ahmed,BSSE,Female,80%-100%,5th,SP24-BSSE-0164  ,3.55
-Adeel,BSSE,Male,60%-79%,2nd,FA23-BSSE-0165  ,2.64
-Kiran,BSSE,Female,60%-79%,2nd,SP25-BSSE-0166  ,1.58
-Iqra,BSSE,Male,60%-79%,2nd,FA24-BSSE-0167  ,3.31
-Sobia,BSSE,Female,60%-79%,2nd,SP23-BSSE-0168  ,2.14
-Mansoor,BSSE,Female,60%-79%,2nd,FA22-BSSE-0169  ,3.82
-Sana,BSSE,Male,40%-59%,2nd,SP24-BSSE-0170  ,1.48
-Shoaib,BEEE,Female,40%-59%,2nd,FA23-BSSE-0171  ,2.77
-Adeel,BSSE,Male,40%-59%,2nd,SP25-BSSE-0172  ,3.4
-Bisma,BSSE,Male,80%-100%,4th,FA24-BSSE-0173  ,1.86
-Shahmeer,BSSE,Male,80%-100%,3rd,SP23-BSSE-0174  ,3.98
-Ahsan,BEEE,Male,60%-79%,5th,FA22-BEEE-0175  ,2.08
-Tariq,BSSE,Male,60%-79%,5th,SP24-BSSE-0176  ,1.97
-Sadia,BEEE,Male,60%-79%,4th,FA23-BEEE-0177  ,3.6
-Zainab,BSSE,Female,60%-79%,4th,SP25-BSSE-0178  ,2.8
-Bashir,BSSE,Male,60%-79%,8th,FA24-BSSE-0179  ,3.2
-Tariq,BSSE,Female,60%-79%,8th,SP23-BSSE-0180  ,1.39
-Umer,BSSE,Male,60%-79%,8th,FA22-BSSE-0181  ,3.02
-Sami,BSSE,Male,60%-79%,8th,SP24-BSSE-0182  ,3.34
-Junaid,BSSE,Male,60%-79%,6th,FA23-BSSE-0183  ,1.65
-Iqra,BSSE,Female,60%-79%,6th,SP25-BSSE-0184  ,3.73
-Ehsan,BSSE,Male,60%-79%,3rd,FA24-BSSE-0185  ,2.25
-Samina,BSSE,Male,80%-100%,5th,SP23-BSSE-0186  ,1.83
-Khadija,BSSE,Male,80%-100%,7th,FA22-BSSE-0187  ,3.5
-Muneeb,BSSE,Male,60%-79%,7th,SP24-BSSE-0188  ,2.44
-Owais,BSSE,Male,80%-100%,4th,FA23-BSSE-0189  ,3.89
-Jameela,BSSE,Male,80%-100%,2nd,SP25-BSSE-0190  ,1.2
-Shahbaz,BSSE,Male,80%-100%,2nd,FA24-BSSE-0191  ,2.56
-Arslan,BSSE,Female,80%-100%,2nd,SP23-BSSE-0192  ,3.14
-Maham,BSSE,Male,80%-100%,2nd,FA22-BSSE-0193  ,1.95
-Ahmed,BSSE,Male,60%-79%,4th,SP24-BSSE-0194  ,3.57
-Adeel,BSSE,Male,60%-79%,4th,FA23-BSSE-0195  ,2.67
-Kiran,BSCS,Female,60%-79%,8th,SP25-BSCS-0196  ,1.61
-Iqra,BSSE,Male,60%-79%,7th,FA24-BSSE-0197  ,3.34
-Sobia,BSSE,Female,60%-79%,7th,SP23-BSSE-0198  ,2.16
-Mansoor,BSSE,Female,60%-79%,7th,FA22-BSSE-0199  ,3.85
-Sana,BSSE,Female,60%-79%,5th,SP24-BSSE-0200  ,1.5
-Shoaib,BSSE,Male,80%-100%,2nd,FA23-BSSE-0201  ,2.8
-Adeel,BSCS,Male,60%-79%,2nd,SP25-BSCS-0202  ,3.42
-Bisma,BSCS,Male,60%-79%,2nd,FA24-BSCS-0203  ,1.89
-Shahmeer,BSCS,Male,60%-79%,2nd,SP23-BSCS-0204  ,4
-Ahsan,BSSE,Male,60%-79%,2nd,FA22-BSSE-0205  ,2.1
-Tariq,BSSE,Male,60%-79%,2nd,SP24-BSSE-0206  ,3.34
-Sadia,BSSE,Male,80%-100%,8th,FA23-BSSE-0207  ,2.16
-Zainab,BSSE,Male,80%-100%,3rd,SP25-BSSE-0208  ,3.85
-Bashir,BSSE,Male,80%-100%,5th,FA24-BSSE-0209  ,1.5
-Tariq,BSSE,Male,80%-100%,5th,SP23-BSSE-0210  ,2.8
-Umer,BSCS,Male,60%-79%,5th,FA22-BSCS-0211  ,3.42
-Sami,BSSE,Male,40%-59%,8th,SP24-BSSE-0212  ,4
+Name,Department,Gender,Attendance,Semester,Rollnumber,Cgpa,Course Name,Course Completion Status
+Ahmed Ali,BEEE,Male,80,Semester 1,SP22-BEEE-9464,3.14,"Machine Learning, Mathematics, Data Structures",Completed
+Fatima Noor,BSCS,Female,75,Semester 8,SP21-BSCS-4500,3.32,"Machine Learning, Mathematics, Data Structures, Algorithms, Physics, Database Management, Software Engineering",Completed
+Sara Khan,BSSE,Female,80,Semester 3,SP22-BSSE-4844,1.5,"Data Structures, Mathematics, Physics, Database Management, Algorithms, Software Engineering, Machine Learning",Completed
+Usman Shah,BSSE,Male,39,Semester 8,SP22-BSSE-8111,2,"Data Structures, Algorithms, Software Engineering, Mathematics, Physics, Database Management, Machine Learning",Completed
+Bilal Ahmed,BSCS,Male,80,Semester 1,SP21-BSCS-3617,2.04,"Physics, Machine Learning, Data Structures, Algorithms, Mathematics, Database Management, Software Engineering",Not Completed
+Fatima Noor,BSSE,Female,75,Semester 6,FA21-BSSE-6332,2.88,"Data Structures, Machine Learning, Mathematics, Algorithms, Database Management, Physics, Software Engineering",Not Completed
+Usman Shah,BSSE,Male,42,Semester 8,FA21-BSSE-3398,2.29,"Machine Learning, Physics, Data Structures, Algorithms, Software Engineering",Completed
+Ahmed Ali,BSCS,Male,75,Semester 6,FA22-BSCS-9496,2.53,"Software Engineering, Machine Learning, Physics, Data Structures, Database Management, Algorithms, Mathematics",Completed
+Fatima Noor,BSSE,Female,75,Semester 4,FA22-BSSE-2992,3.82,"Software Engineering, Machine Learning, Database Management, Algorithms, Data Structures",Completed
+Imran Khan,BSSE,Male,75,Semester 7,SP21-BSSE-6991,1.6,"Machine Learning, Physics, Database Management, Data Structures, Software Engineering, Mathematics, Algorithms",Completed
+Maryam Yaseen,BEEE,Female,80,Semester 6,FA21-BEEE-8433,2.16,"Data Structures, Machine Learning, Algorithms, Software Engineering, Database Management",Not Completed
+Ali Raza,BEEE,Male,41,Semester 5,SP22-BEEE-5446,2.94,"Database Management, Algorithms, Machine Learning, Mathematics, Software Engineering, Physics, Data Structures",Not Completed
+Bilal Ahmed,BSSE,Male,75,Semester 7,FA22-BSSE-6732,3.79,"Mathematics, Physics, Algorithms, Data Structures, Database Management",Not Completed
+Usman Shah,BSCS,Male,46,Semester 8,SP22-BSCS-1625,2.13,"Database Management, Machine Learning, Data Structures, Physics, Software Engineering",Not Completed
+Ahmed Ali,BEEE,Male,75,Semester 6,FA22-BEEE-6855,3.89,"Mathematics, Algorithms, Data Structures, Database Management, Physics, Software Engineering, Machine Learning",Completed
+Maryam Yaseen,BSCS,Female,75,Semester 8,FA22-BSSE-7698,1.6,"Machine Learning, Mathematics, Physics, Data Structures, Software Engineering, Database Management, Algorithms",Not Completed
+Bilal Ahmed,BEEE,Male,75,Semester 8,FA22-BEEE-1384,3.6,"Database Management, Algorithms, Physics, Machine Learning, Mathematics",Not Completed
+Imran Khan,BEEE,Male,75,Semester 6,SP22-BSSE-3281,3.53,"Database Management, Data Structures, Mathematics, Physics, Algorithms",Not Completed
+Sara Khan,BSCS,Female,75,Semester 5,FA21-BSCS-1696,2.18,"Mathematics, Data Structures, Database Management, Machine Learning, Software Engineering, Physics, Algorithms",Not Completed
+Sara Khan,BEEE,Female,80,Semester 8,SP22-BEEE-2512,4,"Software Engineering, Mathematics, Data Structures, Physics, Machine Learning",Completed
+Maryam Yaseen,BEEE,Female,80,Semester 5,FA21-BEEE-7204,1.2,"Machine Learning, Database Management, Data Structures, Physics, Software Engineering, Algorithms, Mathematics",Completed
+Maryam Yaseen,BEEE,Female,46,Semester 2,FA21-BEEE-6152,3.72,"Machine Learning, Data Structures, Algorithms, Mathematics, Software Engineering",Not Completed
+Sara Khan,BSCS,Female,80,Semester 2,FA21-BSCS-1624,3.73,"Software Engineering, Database Management, Data Structures, Physics, Machine Learning",Completed
+Ahmed Ali,BEEE,Male,75,Semester 6,FA21-BEEE-1628,3.84,"Physics, Database Management, Algorithms, Machine Learning, Mathematics, Software Engineering, Data Structures",Not Completed
+Maryam Yaseen,BSSE,Female,38,Semester 1,FA22-BSSE-5163,2.04,"Database Management, Mathematics, Data Structures, Machine Learning, Physics",Completed
+Maryam Yaseen,BSSE,Female,48,Semester 6,FA21-BSSE-9633,1.2,"Algorithms, Database Management, Data Structures, Mathematics, Physics",Not Completed
+Ali Raza,BEEE,Male,80,Semester 7,SP22-BEEE-8070,3.05,"Algorithms, Machine Learning, Software Engineering, Physics, Database Management, Data Structures, Mathematics",Not Completed
+Imran Khan,BSSE,Male,75,Semester 6,FA21-BSSE-3213,2.13,"Algorithms, Physics, Database Management, Software Engineering, Machine Learning",Completed
+Fatima Noor,BSSE,Female,75,Semester 7,FA21-BSSE-6727,2.33,"Algorithms, Database Management, Machine Learning, Mathematics, Data Structures",Not Completed
+Ali Raza,BSCS,Male,80,Semester 4,FA22-BSCS-4620,2.61,"Machine Learning, Physics, Algorithms, Data Structures, Mathematics, Software Engineering, Database Management",Completed
+Sana Malik,BEEE,Female,75,Semester 2,FA21-BEEE-9734,3.21,"Database Management, Machine Learning, Software Engineering, Data Structures, Algorithms, Mathematics, Physics",Completed
+Ayesha Tariq,BEEE,Female,80,Semester 7,SP21-BEEE-5364,1.5,"Machine Learning, Mathematics, Database Management, Software Engineering, Algorithms, Data Structures, Physics",Not Completed
+Sana Malik,BEEE,Female,75,Semester 8,FA22-BEEE-3924,3.86,"Machine Learning, Data Structures, Database Management, Algorithms, Software Engineering, Physics, Mathematics",Completed
+Imran Khan,BEEE,Male,49,Semester 3,FA21-BEEE-3819,3.18,"Physics, Algorithms, Machine Learning, Mathematics, Data Structures",Completed
+Sara Khan,BEEE,Female,80,Semester 5,FA22-BEEE-9828,3.5,"Mathematics, Machine Learning, Software Engineering, Physics, Algorithms",Completed
+Bilal Ahmed,BSCS,Male,75,Semester 6,FA21-BSCS-7980,3.95,"Physics, Data Structures, Algorithms, Mathematics, Database Management",Not Completed
+Ahmed Ali,BSSE,Male,75,Semester 7,FA22-BSSE-7997,3.36,"Physics, Machine Learning, Database Management, Data Structures, Mathematics",Not Completed
+Ahmed Ali,BEEE,Male,75,Semester 1,SP22-BEEE-9115,2.8,"Data Structures, Software Engineering, Algorithms, Machine Learning, Physics",Not Completed
+Sara Khan,BSSE,Female,30,Semester 2,FA22-BSSE-7172,1.3,"Physics, Database Management, Data Structures, Algorithms, Machine Learning",Not Completed
+Ahmed Ali,BSSE,Male,75,Semester 3,FA21-BSSE-2282,3.5,"Mathematics, Software Engineering, Machine Learning, Database Management, Physics, Algorithms, Data Structures",Completed
+Sana Malik,BSCS,Female,75,Semester 3,SP22-BSCS-9873,3.26,"Algorithms, Physics, Data Structures, Mathematics, Database Management",Not Completed
+Sana Malik,BEEE,Female,75,Semester 3,FA22-BEEE-6194,3.07,"Mathematics, Algorithms, Database Management, Software Engineering, Machine Learning, Physics, Data Structures",Not Completed
+Usman Shah,BEEE,Male,36,Semester 4,FA22-BEEE-8299,3.55,"Physics, Machine Learning, Software Engineering, Mathematics, Data Structures",Not Completed
+Ahmed Ali,BSCS,Male,80,Semester 3,SP22-BSCS-7633,3.01,"Database Management, Software Engineering, Algorithms, Physics, Machine Learning",Completed
+Ayesha Tariq,BSCS,Female,36,Semester 3,SP22-BSCS-9698,2.69,"Database Management, Machine Learning, Physics, Software Engineering, Mathematics, Algorithms, Data Structures",Not Completed
+Ali Raza,BSSE,Male,75,Semester 4,SP22-BSSE-4805,3.47,"Data Structures, Database Management, Physics, Software Engineering, Algorithms",Completed
+Imran Khan,BEEE,Male,75,Semester 5,SP22-BEEE-9752,2.14,"Machine Learning, Mathematics, Data Structures, Physics, Software Engineering",Not Completed
+Ali Raza,BSCS,Male,49,Semester 2,FA22-BSCS-9933,3.39,"Data Structures, Physics, Database Management, Algorithms, Machine Learning",Not Completed
+Sana Malik,BSCS,Female,50,Semester 5,SP21-BSCS-2609,2.41,"Mathematics, Machine Learning, Algorithms, Data Structures, Software Engineering",Not Completed
+Ahmed Ali,BSCS,Male,75,Semester 3,SP22-BSCS-2401,1.2,"Software Engineering, Database Management, Physics, Algorithms, Data Structures",Completed
+Sana Malik,BEEE,Female,35,Semester 1,FA22-BEEE-3865,3.84,"Software Engineering, Data Structures, Physics, Algorithms, Machine Learning, Mathematics, Database Management",Completed
+Usman Shah,BSSE,Male,41,Semester 8,SP22-BSSE-7466,3.93,"Physics, Mathematics, Data Structures, Machine Learning, Database Management, Algorithms, Software Engineering",Not Completed
+Fatima Noor,BEEE,Female,75,Semester 3,FA21-BEEE-7707,2.97,"Software Engineering, Machine Learning, Algorithms, Mathematics, Database Management",Not Completed
+Usman Shah,BSSE,Male,42,Semester 1,SP22-BSSE-5749,3.79,"Software Engineering, Algorithms, Data Structures, Physics, Database Management, Mathematics, Machine Learning",Not Completed
+Sara Khan,BSSE,Female,80,Semester 7,FA21-BSSE-6040,3.08,"Database Management, Algorithms, Physics, Software Engineering, Data Structures, Machine Learning, Mathematics",Completed
+Ayesha Tariq,BSCS,Female,42,Semester 6,SP22-BSCS-1699,2.41,"Data Structures, Software Engineering, Mathematics, Database Management, Algorithms, Machine Learning, Physics",Not Completed
+Ali Raza,BEEE,Male,80,Semester 5,SP21-BEEE-5868,2.43,"Database Management, Physics, Software Engineering, Mathematics, Machine Learning, Data Structures, Algorithms",Completed
+Ali Raza,BSSE,Male,80,Semester 6,SP22-BSSE-6170,3.46,"Machine Learning, Mathematics, Software Engineering, Algorithms, Database Management",Completed
+Usman Shah,BEEE,Male,80,Semester 7,FA21-BEEE-6286,2.26,"Machine Learning, Algorithms, Mathematics, Physics, Data Structures",Not Completed
+Sara Khan,BSSE,Female,80,Semester 3,FA22-BSSE-9673,2.44,"Mathematics, Software Engineering, Data Structures, Algorithms, Physics",Completed
+Sana Malik,BSCS,Female,80,Semester 7,FA22-BSCS-5314,2.46,"Physics, Machine Learning, Algorithms, Database Management, Data Structures",Completed
+Ali Raza,BSCS,Male,36,Semester 3,FA22-BSCS-4233,1.3,"Mathematics, Physics, Software Engineering, Algorithms, Machine Learning, Database Management, Data Structures",Not Completed
+Usman Shah,BSSE,Male,75,Semester 5,SP22-BSSE-6066,2.97,"Machine Learning, Software Engineering, Database Management, Data Structures, Algorithms",Completed
+Ahmed Ali,BSSE,Male,36,Semester 4,FA21-BSSE-9527,3.17,"Physics, Database Management, Data Structures, Software Engineering, Machine Learning, Mathematics, Algorithms",Completed
+Maryam Yaseen,BSCS,Female,42,Semester 5,FA21-BSCS-2797,3.45,"Data Structures, Algorithms, Machine Learning, Database Management, Physics, Software Engineering, Mathematics",Completed
+Ahmed Ali,BSSE,Male,80,Semester 2,FA21-BSSE-5155,2.72,"Algorithms, Mathematics, Physics, Database Management, Machine Learning, Data Structures, Software Engineering",Not Completed
+Fatima Noor,BSSE,Female,43,Semester 1,SP22-BSSE-6423,3.74,"Machine Learning, Mathematics, Database Management, Physics, Algorithms, Software Engineering, Data Structures",Completed
+Bilal Ahmed,BSCS,Male,75,Semester 3,FA21-BSCS-8941,3.32,"Algorithms, Mathematics, Data Structures, Machine Learning, Physics",Completed
+Ahmed Ali,BSSE,Male,75,Semester 1,SP22-BSSE-3335,2.51,"Algorithms, Data Structures, Software Engineering, Database Management, Physics",Not Completed
+Maryam Yaseen,BSCS,Female,48,Semester 3,FA21-BSCS-3249,2.01,"Machine Learning, Database Management, Physics, Data Structures, Algorithms",Not Completed
+Ayesha Tariq,BSSE,Female,49,Semester 2,SP21-BSSE-5628,2.27,"Database Management, Software Engineering, Data Structures, Machine Learning, Algorithms, Physics, Mathematics",Not Completed
+Fatima Noor,BSCS,Female,80,Semester 6,SP21-BSCS-4120,3.33,"Physics, Database Management, Machine Learning, Software Engineering, Algorithms, Data Structures, Mathematics",Completed
+Bilal Ahmed,BSCS,Male,75,Semester 6,SP21-BSCS-6713,1.3,"Data Structures, Physics, Mathematics, Database Management, Machine Learning",Not Completed
+Maryam Yaseen,BEEE,Female,75,Semester 5,SP21-BEEE-6830,2.22,"Mathematics, Database Management, Machine Learning, Data Structures, Algorithms",Completed
+Ahmed Ali,BSSE,Male,75,Semester 1,FA22-BSSE-8695,2.48,"Data Structures, Physics, Database Management, Machine Learning, Mathematics",Completed
+Sara Khan,BEEE,Female,75,Semester 5,SP21-BEEE-4324,2.2,"Physics, Software Engineering, Mathematics, Data Structures, Machine Learning",Completed
+Sara Khan,BEEE,Female,75,Semester 8,SP21-BEEE-3765,3.91,"Algorithms, Physics, Mathematics, Software Engineering, Machine Learning",Completed
+Sana Malik,BSCS,Female,41,Semester 2,FA22-BSCS-1310,2.22,"Data Structures, Physics, Algorithms, Mathematics, Machine Learning, Database Management, Software Engineering",Not Completed
+Usman Shah,BSSE,Male,45,Semester 8,SP22-BSSE-8684,3.92,"Physics, Software Engineering, Algorithms, Data Structures, Machine Learning",Completed
+Sana Malik,BEEE,Female,43,Semester 2,SP21-BEEE-5804,3.73,"Machine Learning, Mathematics, Database Management, Software Engineering, Algorithms",Not Completed
+Bilal Ahmed,BSCS,Male,80,Semester 6,SP21-BSCS-6974,3.76,"Data Structures, Mathematics, Algorithms, Software Engineering, Machine Learning",Completed
+Ayesha Tariq,BEEE,Female,80,Semester 1,FA21-BEEE-3124,2.53,"Database Management, Physics, Algorithms, Software Engineering, Data Structures",Not Completed
+Ahmed Ali,BSSE,Male,80,Semester 2,SP22-BSSE-5337,1.2,"Software Engineering, Mathematics, Algorithms, Data Structures, Physics",Not Completed
+Sana Malik,BSCS,Female,31,Semester 4,FA22-BSCS-1400,3.68,"Data Structures, Software Engineering, Machine Learning, Mathematics, Physics",Not Completed
+Sara Khan,BEEE,Female,75,Semester 2,FA22-BEEE-5293,2.53,"Physics, Machine Learning, Database Management, Algorithms, Data Structures",Not Completed
+Maryam Yaseen,BSCS,Female,45,Semester 4,SP22-BSCS-7702,3.35,"Machine Learning, Algorithms, Data Structures, Database Management, Mathematics",Not Completed
+Ali Raza,BEEE,Male,42,Semester 5,SP22-BEEE-9009,3.42,"Software Engineering, Database Management, Machine Learning, Data Structures, Mathematics, Physics, Algorithms",Not Completed
+Usman Shah,BEEE,Male,80,Semester 8,SP21-BEEE-1010,3.64,"Algorithms, Database Management, Physics, Data Structures, Software Engineering",Completed
+Usman Shah,BSCS,Male,75,Semester 3,SP21-BSCS-4515,3.38,"Algorithms, Software Engineering, Data Structures, Machine Learning, Database Management",Completed
+Fatima Noor,BEEE,Female,80,Semester 4,SP21-BEEE-7002,2.6,"Mathematics, Database Management, Machine Learning, Algorithms, Data Structures, Software Engineering, Physics",Not Completed
+Fatima Noor,BSCS,Female,41,Semester 2,SP22-BSCS-3594,2.13,"Software Engineering, Database Management, Algorithms, Mathematics, Data Structures, Machine Learning, Physics",Not Completed
+Sana Malik,BEEE,Female,80,Semester 4,FA22-BEEE-1969,2.84,"Physics, Data Structures, Machine Learning, Algorithms, Database Management",Not Completed
+Imran Khan,BEEE,Male,44,Semester 2,FA21-BEEE-4076,1.2,"Data Structures, Machine Learning, Physics, Database Management, Software Engineering",Not Completed
+Ahmed Ali,BSSE,Male,80,Semester 4,SP22-BSSE-4331,2.9,"Algorithms, Database Management, Machine Learning, Physics, Software Engineering",Not Completed
+Ayesha Tariq,BSSE,Female,32,Semester 7,SP22-BSSE-4893,2.9,"Physics, Software Engineering, Algorithms, Data Structures, Database Management, Machine Learning, Mathematics",Completed
+Ali Raza,BEEE,Male,80,Semester 7,SP21-BEEE-5586,3.94,"Mathematics, Algorithms, Machine Learning, Software Engineering, Data Structures",Completed
+Imran Khan,BEEE,Male,39,Semester 6,SP21-BEEE-7044,3.25,"Software Engineering, Physics, Machine Learning, Data Structures, Database Management, Algorithms, Mathematics",Completed
+Sana Malik,BSSE,Female,75,Semester 8,FA21-BSSE-2639,3.1,"Algorithms, Software Engineering, Physics, Machine Learning, Data Structures",Completed
+Imran Khan,BSCS,Male,75,Semester 4,FA21-BSCS-7666,2.16,"Machine Learning, Software Engineering, Algorithms, Physics, Data Structures",Not Completed
+Ayesha Tariq,BSCS,Female,80,Semester 1,FA22-BSCS-5069,2.76,"Data Structures, Algorithms, Physics, Machine Learning, Database Management, Mathematics, Software Engineering",Not Completed
+Sara Khan,BEEE,Female,50,Semester 3,SP21-BEEE-7492,3.47,"Software Engineering, Mathematics, Database Management, Machine Learning, Physics",Not Completed
+Sana Malik,BSCS,Female,38,Semester 8,SP21-BSCS-7798,3.56,"Software Engineering, Machine Learning, Mathematics, Data Structures, Physics, Database Management, Algorithms",Completed
+Ahmed Ali,BSSE,Male,75,Semester 8,SP22-BSCS-5428,2.85,"Database Management, Data Structures, Physics, Software Engineering, Mathematics",Completed
+Bilal Ahmed,BSSE,Male,46,Semester 3,FA21-BSSE-9110,3.15,"Machine Learning, Database Management, Mathematics, Data Structures, Algorithms, Physics, Software Engineering",Completed
+Imran Khan,BEEE,Male,75,Semester 8,FA21-BEEE-4396,3.06,"Algorithms, Physics, Mathematics, Machine Learning, Data Structures, Software Engineering, Database Management",Completed
+Imran Khan,BSCS,Male,75,Semester 2,FA22-BSCS-1324,1.2,"Machine Learning, Mathematics, Algorithms, Physics, Database Management",Not Completed
+Ahmed Ali,BEEE,Male,75,Semester 4,SP21-BEEE-2638,3.65,"Software Engineering, Data Structures, Machine Learning, Database Management, Physics, Mathematics, Algorithms",Not Completed
+Fatima Noor,BEEE,Female,41,Semester 5,SP22-BEEE-4589,3.87,"Software Engineering, Physics, Data Structures, Database Management, Algorithms, Mathematics, Machine Learning",Completed
+Fatima Noor,BSCS,Female,34,Semester 2,FA22-BSCS-6479,3.07,"Physics, Database Management, Machine Learning, Algorithms, Software Engineering",Completed
+Sana Malik,BSSE,Female,39,Semester 4,SP22-BSSE-3005,2.27,"Database Management, Machine Learning, Algorithms, Software Engineering, Physics, Data Structures, Mathematics",Completed
+Imran Khan,BSSE,Male,75,Semester 5,FA22-BSSE-3605,2.58,"Algorithms, Mathematics, Data Structures, Software Engineering, Machine Learning",Not Completed
+Ali Raza,BSSE,Male,75,Semester 1,FA21-BSSE-2367,2.78,"Software Engineering, Machine Learning, Algorithms, Mathematics, Physics",Completed
+Maryam Yaseen,BEEE,Female,80,Semester 3,SP21-BSCS-1533,2.15,"Physics, Software Engineering, Data Structures, Mathematics, Database Management",Not Completed
+Ahmed Ali,BEEE,Male,75,Semester 6,FA22-BEEE-7973,2.34,"Software Engineering, Data Structures, Database Management, Physics, Mathematics",Completed
+Ayesha Tariq,BEEE,Female,75,Semester 8,SP21-BEEE-4561,2.46,"Software Engineering, Data Structures, Algorithms, Machine Learning, Mathematics, Database Management, Physics",Completed
+Sana Malik,BEEE,Female,39,Semester 4,SP22-BEEE-6342,2.58,"Mathematics, Algorithms, Machine Learning, Software Engineering, Data Structures, Physics, Database Management",Not Completed
+Sara Khan,BEEE,Female,75,Semester 4,FA22-BEEE-6479,2.92,"Software Engineering, Database Management, Physics, Machine Learning, Data Structures, Mathematics, Algorithms",Completed
+Imran Khan,BEEE,Male,75,Semester 8,FA22-BEEE-3807,1.2,"Machine Learning, Software Engineering, Database Management, Data Structures, Physics, Algorithms, Mathematics",Not Completed
+Ali Raza,BSSE,Male,75,Semester 7,SP22-BSSE-4127,3.16,"Data Structures, Algorithms, Database Management, Machine Learning, Mathematics, Physics, Software Engineering",Not Completed
+Fatima Noor,BSCS,Female,41,Semester 8,SP21-BSCS-2678,3.11,"Data Structures, Machine Learning, Algorithms, Database Management, Mathematics, Physics, Software Engineering",Not Completed
+Imran Khan,BSSE,Male,48,Semester 7,FA22-BSSE-5331,3.47,"Database Management, Data Structures, Mathematics, Software Engineering, Algorithms",Not Completed
+Ahmed Ali,BEEE,Male,75,Semester 3,SP21-BEEE-8880,2.21,"Software Engineering, Mathematics, Physics, Algorithms, Database Management",Not Completed
+Fatima Noor,BSCS,Female,75,Semester 7,FA21-BSCS-5677,2.66,"Software Engineering, Data Structures, Machine Learning, Physics, Mathematics",Completed
+Usman Shah,BSSE,Male,80,Semester 7,FA22-BSSE-5295,2.2,"Software Engineering, Machine Learning, Algorithms, Database Management, Physics",Not Completed
+Bilal Ahmed,BSSE,Male,75,Semester 8,SP22-BSSE-7754,2.21,"Data Structures, Software Engineering, Physics, Algorithms, Machine Learning",Completed
+Ali Raza,BEEE,Male,75,Semester 1,FA22-BEEE-7750,3.26,"Data Structures, Database Management, Algorithms, Physics, Mathematics, Machine Learning, Software Engineering",Completed
+Ahmed Ali,BSCS,Male,75,Semester 5,FA21-BSCS-2825,3.9,"Database Management, Machine Learning, Software Engineering, Mathematics, Physics",Not Completed
+Maryam Yaseen,BSSE,Female,75,Semester 8,FA21-BSSE-2393,2.22,"Algorithms, Machine Learning, Data Structures, Mathematics, Software Engineering, Physics, Database Management",Completed
+Fatima Noor,BSSE,Female,36,Semester 3,SP21-BSSE-5234,1.5,"Data Structures, Machine Learning, Software Engineering, Mathematics, Physics, Algorithms, Database Management",Not Completed
+Maryam Yaseen,BSCS,Female,75,Semester 8,FA22-BSCS-7676,3.83,"Software Engineering, Data Structures, Machine Learning, Physics, Database Management, Mathematics, Algorithms",Completed
+Imran Khan,BSSE,Male,34,Semester 2,FA21-BSSE-1333,3.54,"Data Structures, Physics, Machine Learning, Software Engineering, Mathematics, Database Management, Algorithms",Completed
+Imran Khan,BSSE,Male,75,Semester 3,SP21-BSSE-2288,3.8,"Data Structures, Database Management, Physics, Machine Learning, Algorithms",Not Completed
+Ayesha Tariq,BEEE,Female,35,Semester 8,FA22-BEEE-3143,3.14,"Database Management, Data Structures, Algorithms, Machine Learning, Physics, Software Engineering, Mathematics",Completed
+Ayesha Tariq,BEEE,Female,39,Semester 8,SP22-BEEE-9567,3.88,"Mathematics, Software Engineering, Physics, Database Management, Machine Learning",Completed
+Ahmed Ali,BSSE,Male,37,Semester 1,FA22-BSSE-2805,3.73,"Machine Learning, Database Management, Algorithms, Physics, Mathematics",Not Completed
+Maryam Yaseen,BSSE,Female,80,Semester 2,SP22-BSSE-5223,3.55,"Data Structures, Physics, Mathematics, Software Engineering, Algorithms",Not Completed
+Usman Shah,BEEE,Male,49,Semester 2,FA21-BEEE-1344,2.28,"Data Structures, Machine Learning, Software Engineering, Database Management, Physics, Algorithms, Mathematics",Completed
+Imran Khan,BSCS,Male,80,Semester 5,FA21-BSCS-2439,1.7,"Physics, Software Engineering, Machine Learning, Database Management, Data Structures, Algorithms, Mathematics",Completed
+Sara Khan,BEEE,Female,38,Semester 6,FA22-BEEE-7144,3.94,"Data Structures, Database Management, Machine Learning, Mathematics, Software Engineering, Algorithms, Physics",Completed
+Fatima Noor,BSCS,Female,80,Semester 5,SP22-BSCS-2137,3.26,"Mathematics, Algorithms, Software Engineering, Data Structures, Physics",Not Completed
+Ayesha Tariq,BSSE,Female,44,Semester 1,SP21-BSSE-6618,2.83,"Mathematics, Machine Learning, Data Structures, Algorithms, Database Management",Not Completed
+Fatima Noor,BSSE,Female,47,Semester 7,SP21-BSSE-9814,2,"Physics, Algorithms, Database Management, Mathematics, Data Structures",Completed
+Maryam Yaseen,BSSE,Female,80,Semester 5,FA22-BSSE-5767,2.62,"Physics, Data Structures, Machine Learning, Database Management, Algorithms, Software Engineering, Mathematics",Completed
+Fatima Noor,BSCS,Female,35,Semester 5,FA22-BSCS-9902,3.56,"Machine Learning, Database Management, Software Engineering, Mathematics, Algorithms",Not Completed
+Sara Khan,BEEE,Female,75,Semester 2,FA22-BEEE-1422,3.79,"Machine Learning, Algorithms, Physics, Data Structures, Database Management, Mathematics, Software Engineering",Completed
+Bilal Ahmed,BEEE,Male,80,Semester 5,FA22-BEEE-7307,2.15,"Database Management, Physics, Mathematics, Machine Learning, Data Structures",Completed
+Ahmed Ali,BSCS,Male,75,Semester 7,FA21-BSCS-9607,3.54,"Mathematics, Physics, Algorithms, Database Management, Machine Learning",Completed
+Fatima Noor,BSCS,Female,80,Semester 4,SP21-BSCS-1594,3.92,"Mathematics, Software Engineering, Database Management, Data Structures, Algorithms",Completed
+Sara Khan,BSSE,Female,80,Semester 2,FA21-BSSE-2598,2.34,"Physics, Software Engineering, Mathematics, Machine Learning, Data Structures",Completed
+Sara Khan,BSCS,Female,46,Semester 1,SP22-BSCS-1882,3.19,"Physics, Software Engineering, Algorithms, Machine Learning, Mathematics, Database Management, Data Structures",Completed
