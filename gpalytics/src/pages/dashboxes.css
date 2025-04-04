@@ -1,0 +1,45 @@
+.allbox {
+    
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(3, 1fr);
+    justify-content: center;
+    margin-left: 60px;
+    row-gap: 40px;
+    
+}
+
+.box{
+
+    height: 150px;
+    width: 250px;
+    color: white;
+    border: 1px solid white;
+    display: flex;
+    justify-content: center;
+    text-align: top;
+    border-radius: 25px;
+    transition: background 0.3s ease-in-out, transform 0.2s ease-in-out;
+}
+
+/* Unique colors */
+.box1 { background-color: #2980b9; display: inline; align-items: center; justify-items: center; font-size: 20px;}
+.box1 #first{font-size: 24px;}  
+.box2 { background-color: #27ae60;display: inline; align-items: center; justify-items: center; font-size: 20px; }
+.box2 #second{font-size: 24px;}
+.box3 { background-color: #f39c12;display: inline; align-items: center; justify-items: center; font-size: 20px; }
+.box3 #third{font-size: 24px;} 
+.box4 { background-color: #8e44ad;display: inline; align-items: center; justify-items: center; font-size: 20px;} 
+.box4 #fourth{font-size: 24px;}
+.box5 { background-color: #c0392b;display: inline; align-items: center; justify-items: center; font-size: 20px; }
+.box5 #fifth{font-size: 24px;}
+.box6 { background-color: #16a085;display: inline; align-items: center; justify-items: center; font-size: 20x;} 
+.box6 #sixth{font-size: 24px;}
+
+.box1:hover { background-color: #1c598a; transform: scale(1.05);} /* Darker Blue */
+.box2:hover { background-color: #1e8449; transform: scale(1.05);} /* Darker Green */
+.box3:hover { background-color: #c87f0a; transform: scale(1.05);} /* Darker Yellow */
+.box4:hover { background-color: #722e8e; transform: scale(1.05);} /* Darker Purple */
+.box5:hover { background-color: #a93226; transform: scale(1.05);} /* Darker Red */
+.box6:hover { background-color: #117a65;transform: scale(1.05);} /* Darker Teal */
+
