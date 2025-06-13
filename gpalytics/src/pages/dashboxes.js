@@ -39,7 +39,7 @@ function DashBoxes(props)
     useEffect(() => {
         fetch('http://127.0.0.1:5000/student-completionrate')
             .then(response => response.json())
-            .then(data => newrate(data.completion_rate))  // 👈 update yahan
+            .then(data => newrate(data.completion_rate)) 
             .catch(error => console.error('Error Fetching Data:', error));
     }, []);
 
